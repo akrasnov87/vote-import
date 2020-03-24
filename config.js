@@ -1,0 +1,1 @@
+exports.string = 'host:dev-ws-v-07;port:5432;user:mobnius;password:mobnius-0;database:vote-dev';

@@ -1,0 +1,16 @@
+{
+  "name": "import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^6.2.0",
+    "pg": "^7.18.2",
+    "tedious": "^8.2.0"
+  }
+}
